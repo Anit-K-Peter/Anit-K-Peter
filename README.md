@@ -10,8 +10,7 @@
 <h3 align="right">
   </br>
   
-- 💬 Love To Code In
-  
+ 💬 Love To Code In
 <p align="right">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -26,6 +25,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/docs/git"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python%20-%23ffde57.svg?&style=for-the-badge&logo=python&logoColor=%ffde57"/></a>
+
+      
+   <h4 align="center">I'm passionate about creating open-source projects. Check out my repos and feel free to collaborate! Happy coding! </h4>
 </p>
 </h3>
 
