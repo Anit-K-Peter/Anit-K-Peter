@@ -6,6 +6,4 @@
 - 📚 **Learning**: Exploring advanced JavaScript and TypeScript
 - 🤝 **Collaboration**: Open to contributing and collaborating on open-source projects
 
----
 
-This version provides a clear overview of your skills and activities in a concise manner.
