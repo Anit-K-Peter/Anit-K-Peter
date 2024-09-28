@@ -3,9 +3,6 @@
 </br>
 </br>
 
-<a href="https://discord.com/users/891002113134563428">
-<img src="https://lanyard.cnrad.dev/api/891002113134563428" align="left">
-</a>
 
 <h3 align="right">
   </br>
