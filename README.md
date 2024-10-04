@@ -39,7 +39,7 @@
 <h2 align="left"> As Sebastian Varkey </h2>
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
     <a href="www.instagram.com/___anitkp3z___/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
     </a>
