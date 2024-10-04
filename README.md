@@ -1,30 +1,30 @@
-<h1 align="center"> Anit K Peter </h1>
-<h5 align="center"> an Low Ride bot developer </h5>
-</br>
-</br>
+<h1 align="center">
+    <p><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hey+There+👋;My+Name+is+Anit+k+Peter.;Welcome+to+The+github+page.">
+</h1>
 
 
-<h3 align="right">
-  </br>
-  
- 💬 Love To Code In
-<p align="right">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/></a>
-    <a href="https://lua.org"><img src="https://img.shields.io/badge/lua%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/></a>
-<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript%20-%230610c4.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/docs/git"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python%20-%23ffde57.svg?&style=for-the-badge&logo=python&logoColor=%ffde57"/></a>
+<br/>
+<div align="center"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_240/https://getonstream.com/wp-content/uploads/2022/09/image1.gif" alt="Img"/></div>
 
+
+<div align="center">
+ 
+ Creating things that will someday make people love! ❤️‍🔥
+ 
+ </div>
+ <br/>
+
+</div>
+
+<h2 align="center">⚒️ Love To Code In ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,nextjs,python,github,markdown" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=windows" />
+</div>
       
-   <h4 align="center">I'm passionate about creating open-source projects. Check out my repos and feel free to collaborate! Happy coding! </h4>
+   <h4 align="center">I'm passionate about creating open-source projects. Check out my repos and feel free to collaborate! Happy coding!,</h4>
 </p>
 </h3>
 
@@ -37,6 +37,24 @@
 
 
 <h2 align="left"> As Sebastian Varkey </h2>
-</br>
 
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+    <a href="www.instagram.com/___anitkp3z___/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a>
+    <a href="https://discord.com/users/891002113134563428e" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
+    </a>
+    <a href="https://replit.com/@SebastianVarkey" target="_blank">
+        <img src="https://skillicons.dev/icons?i=replit" alt="discord" />
+    </a>
+    <br/>
+</div>
+
+
+
+</br>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anit-K-Peter&label=Profile%20views&color=f55019&style=flat" alt="Anit-K-Peter" /> </p>
 </br>
