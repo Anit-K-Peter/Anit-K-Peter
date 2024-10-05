@@ -1,1 +1,1 @@
-Thanks For Visiting My Page
+Thanks For Visiting My Profile Page 
