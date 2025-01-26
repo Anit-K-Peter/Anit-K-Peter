@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Love To Code In ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,nextjs,python,github,markdown" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,github,markdown,blender" />
     <br/>
     <img src="https://skillicons.dev/icons?i=windows" />
 </div>
